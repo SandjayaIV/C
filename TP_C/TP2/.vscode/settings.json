@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "main.C": "cpp",
+        "ex1.C": "cpp",
+        "ex2.C": "cpp"
+    }
+}
